@@ -47,5 +47,5 @@ It illustrates how data analysis can help businesses understand customer behavio
 ## 📊 Power BI Dashboard
 
 ### Customer Segmentation Overview
-![Dashboard Overview](Power BI Dashboard.png)
+![Dashboard Overview](PowerBIDashboard.png)
 
