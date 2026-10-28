@@ -44,8 +44,7 @@ This project demonstrates practical experience in SQL, data preparation, unsuper
 
 It illustrates how data analysis can help businesses understand customer behavior and support data-driven decisions.
 
+
 ## 📊 Power BI Dashboard
 
-### Customer Segmentation Overview
-![Dashboard Overview](PowerBIDashboard.png)
-
+![Customer Segmentation Dashboard](Power%20BI%20Dashboard.png)
