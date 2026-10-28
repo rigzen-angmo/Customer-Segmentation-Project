@@ -43,3 +43,10 @@ The dataset contains 3,900 customer records, including age, gender, product cate
 This project demonstrates practical experience in SQL, data preparation, unsupervised machine learning, customer segmentation, and Power BI dashboard development.
 
 It illustrates how data analysis can help businesses understand customer behavior and support data-driven decisions.
+
+## 📊 Power BI Dashboard
+
+### Customer Segmentation Overview
+![Dashboard Overview](Dashboard.png)
+
+\
